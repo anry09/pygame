@@ -1,3 +1,4 @@
+#Author Anry09 13-11-2021
 import pygame
 import os
 pygame.font.init()
